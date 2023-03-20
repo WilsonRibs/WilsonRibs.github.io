@@ -137,14 +137,14 @@ footer a{
     }
     .lista-item{
         width: 100% ; 
-        border-top: 2px solid #fff;
+        border-top: 3px solid #fff;
         padding-top: 10px;
         display: flex;
         justify-content: space-around;
         align-items: center;
     }
     ul{
-    font-size: 18px;
+    font-size: 16px;
     line-height: 20px;
     }
    footer{
